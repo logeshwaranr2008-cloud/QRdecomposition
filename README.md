@@ -58,6 +58,8 @@ print("The R Matrix is\n",R)
 
 ## Output
 ```
+<img width="1818" height="969" alt="Exp-8" src="https://github.com/user-attachments/assets/7bc09dd9-b902-4c8d-a460-d9d085d8e86c" />
+
 
 
 
